@@ -1,7 +1,11 @@
 */.idea/*
+.idea/*
 */.vs/*
+.vs/*
 */bin/*
+bin/*
 */obj/*
+obj/*
 */*.sln
 */log/*
 *.log
